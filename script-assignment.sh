@@ -5,5 +5,5 @@
 
 for i in {0..10}
 do
-        echo "$(cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 3 | head -n1),201903$((10 + RANDOM % 25)),$((0 + RANDOM % 10)),$((10000 + RANDOM % 99999))"
+	echo "$(head -50 /dev/urandom | tr -dc 'a-zA-Z' | fold -w 3 | head -n1)$((0 + RANDOM % 9)),201903$((10 + RANDOM % 15)),$((0 + RANDOM % 10)),$((10000 + RANDOM % 99999))"
 done

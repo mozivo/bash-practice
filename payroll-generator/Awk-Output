@@ -1,0 +1,117 @@
+sudo awk -F, '{if (NR!=24) {print" \nEmployee Name: "$1" "$2" \nEmployee ID: "$3" \nHours Worked This Day: "$4" \nHourly Rate: "$5}}' data.csv 
+
+Employee Name: FName  LName 
+Employee ID:  ID 
+Hours Worked This Day:  Hours 
+Hourly Rate:  HRate
+ 
+Employee Name: UfUU DbwP 
+Employee ID: 28850 
+Hours Worked This Day: 13 
+Hourly Rate: 8.50
+ 
+Employee Name: JcRx sBAw 
+Employee ID: 17899 
+Hours Worked This Day: 15 
+Hourly Rate: 8.50
+ 
+Employee Name: dmCu SsvS 
+Employee ID: 15808 
+Hours Worked This Day: 17 
+Hourly Rate: 8.50
+ 
+Employee Name: BInB yTyW 
+Employee ID: 37159 
+Hours Worked This Day: 17 
+Hourly Rate: 8.50
+ 
+Employee Name: AkSb WABx 
+Employee ID: 16084 
+Hours Worked This Day: 15 
+Hourly Rate: 8.50
+ 
+Employee Name: TpoB LMDm 
+Employee ID: 21838 
+Hours Worked This Day: 6 
+Hourly Rate: 8.50
+ 
+Employee Name: VbLu UTNP 
+Employee ID: 36085 
+Hours Worked This Day: 17 
+Hourly Rate: 8.50
+ 
+Employee Name: yWue Mgfc 
+Employee ID: 35614 
+Hours Worked This Day: 9 
+Hourly Rate: 8.50
+ 
+Employee Name: NUrT rxgS 
+Employee ID: 42699 
+Hours Worked This Day: 7 
+Hourly Rate: 8.50
+ 
+Employee Name: LaIn bioj 
+Employee ID: 38904 
+Hours Worked This Day: 5 
+Hourly Rate: 8.50
+ 
+Employee Name: LPRz LfEX 
+Employee ID: 40908 
+Hours Worked This Day: 7 
+Hourly Rate: 8.50
+ 
+Employee Name: OgFA UZkn 
+Employee ID: 17321 
+Hours Worked This Day: 14 
+Hourly Rate: 8.50
+ 
+Employee Name: TIov Kljt 
+Employee ID: 39012 
+Hours Worked This Day: 5 
+Hourly Rate: 8.50
+ 
+Employee Name: HPDM harX 
+Employee ID: 14876 
+Hours Worked This Day: 12 
+Hourly Rate: 8.50
+ 
+Employee Name: ehvg GSOK 
+Employee ID: 36621 
+Hours Worked This Day: 14 
+Hourly Rate: 8.50
+ 
+Employee Name: aWLG lNrM 
+Employee ID: 32565 
+Hours Worked This Day: 10 
+Hourly Rate: 8.50
+ 
+Employee Name: CIfV SDEi 
+Employee ID: 26306 
+Hours Worked This Day: 16 
+Hourly Rate: 8.50
+ 
+Employee Name: HeSc fcjF 
+Employee ID: 10599 
+Hours Worked This Day: 14 
+Hourly Rate: 8.50
+ 
+Employee Name: NHqB BEjr 
+Employee ID: 39615 
+Hours Worked This Day: 11 
+Hourly Rate: 8.50
+ 
+Employee Name: rUOC wBdQ 
+Employee ID: 26120 
+Hours Worked This Day: 3 
+Hourly Rate: 8.50
+ 
+Employee Name: FDtu pjwt 
+Employee ID: 20318 
+Hours Worked This Day: 10 
+Hourly Rate: 8.50
+ 
+Employee Name: eQyZ SGhQ 
+Employee ID: 22146 
+Hours Worked This Day: 17 
+Hourly Rate: 8.50
+

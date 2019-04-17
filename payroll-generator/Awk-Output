@@ -1,4 +1,4 @@
-sudo awk -F, '{if (NR!=24) {print" \nEmployee Name: "$1" "$2" \nEmployee ID: "$3" \nHours Worked This Day: "$4" \nHourly Rate: "$5}}' data.csv 
+sudo awk -F, '{if (NR!=24) {print" \nEmployee Name: "$1" "$2" \nEmployee ID: "$3" \nHours Worked This Day: "$4" \nHourly Rate: "$5}}' payroll.csv 
 
 Employee Name: FName  LName 
 Employee ID:  ID 
